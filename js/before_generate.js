@@ -23,4 +23,4 @@ function copyFolder(source, target) {
   });
 }
 
-copyFolder('./source/.CDN', './public/.github');
+copyFolder('./CDN', './public/.github');
