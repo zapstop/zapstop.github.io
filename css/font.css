@@ -1,0 +1,7 @@
+/* 字体css */
+@font-face{
+    font-family: 'Kingsoft'; 
+    font-display: swap;
+    src: url('https://djy.zap520.cn/hexo-anzhiyu/font/huangkaihuaLawyerfont-2.ttf') format("truetype");
+  }
+  
