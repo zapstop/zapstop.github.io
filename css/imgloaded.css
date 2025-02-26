@@ -91,7 +91,7 @@ body[data-type=anzhiyu] #nav,body[data-type=anzhiyu] #scroll-down,body[data-type
     filter: blur(50px);
   }
 
-  /* 页脚透明 */
+/* 页脚透明 */
 #footer {
   background: transparent !important;
 }
