@@ -1,7 +1,6 @@
 /* 字体css */
-@font-face{
-    font-family: 'Kingsoft'; 
-    font-display: swap;
-    src: url('https://alist.zaps.top/hexo-abzhiyu/font/huangkaihuaLawyerfont-2.ttf') format("truetype");
-  }
-  
+@font-face {
+	font-family: 'YunFont';
+	font-display: swap;
+	src: url('https://zap.zaps.top/hexo-abzhiyu/font/huangkaihuaLawyerfont-2.ttf')format("truetype");
+}
