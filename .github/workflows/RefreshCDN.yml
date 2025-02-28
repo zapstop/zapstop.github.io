@@ -24,7 +24,7 @@ jobs:
         run: sleep 1m  # 这里用了个笨办法，等待 1 分钟后进行刷新
 
       - name: 刷新 CDN
-        run: python RefreshCDN.py
+        run: python .github/RefreshCDN.py
         env:
           DOGECLOUD_ACCESS_KEY: ${{ secrets.DOGECLOUD_ACCESS_KEY }}
           DOGECLOUD_SECRET_KEY: ${{ secrets.DOGECLOUD_SECRET_KEY }}
